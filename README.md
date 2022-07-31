@@ -8,7 +8,7 @@
 
   Use the link below to access a video of the API routes being tested with Insomnia.
 
-  <!-- Link to video -->
+  [Video of Application](https://drive.google.com/file/d/1PgDp1uiwbSqdj_nBZq119gC87nlwsPfu/view)
 
   ## Table of Content
   - [Installation](#installation)
